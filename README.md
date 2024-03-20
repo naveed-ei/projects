@@ -1,2 +1,2 @@
-# projects
+# Projects and Tasks
 Projects and Tasks
